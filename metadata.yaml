@@ -1,0 +1,48 @@
+_repo: The-boy-s-Froissart-Being-Sir-John-Froissart-s-Chronicles-of-adventure-battle-and-custom-in-E__61710
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kappes, Alfred
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '51572'
+    url: http://www.gutenberg.org/2009/agents/51572
+creator:
+  author:
+    agent_name: Froissart, Jean
+    aliases:
+    - Frossardus, Joannes
+    - Froissart, Jehan
+    - Froyssart, Johan
+    - Froissart, John
+    gutenberg_agent_id: '5170'
+    url: http://www.gutenberg.org/2009/agents/5170
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean_Froissart
+    - https://en.wikipedia.org/wiki/Jean_Froissart
+  editor:
+    agent_name: Lanier, Sidney
+    birthdate: 1842
+    deathdate: 1881
+    gutenberg_agent_id: '299'
+    url: http://www.gutenberg.org/2009/agents/299
+    wikipedia: https://en.wikipedia.org/wiki/Sidney_Lanier
+description: ''
+gutenberg_issued: '2020-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61710'
+  lccn: '16007353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hundred Years'' War, 1339-1453'
+- !lcsh 'Great Britain -- History -- 14th century'
+- !lcc 'D'
+- !lcsh 'France -- History -- House of Valois, 1328-1589'
+- GITenberg
+title: "The boy's Froissart\r\nBeing Sir John Froissart's Chronicles of adventure,\
+  \ battle, and custom in England, France, Spain, etc."
+url: http://www.gutenberg.org/ebooks/61710
